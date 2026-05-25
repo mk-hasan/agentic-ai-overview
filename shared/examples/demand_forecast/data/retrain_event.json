@@ -1,0 +1,16 @@
+{
+  "type": "scheduled_retrain",
+  "trigger": "weekly_schedule",
+  "scope": {
+    "sku_ids": [
+      "SKU-100",
+      "SKU-200"
+    ],
+    "stores": [
+      "STORE-NYC",
+      "STORE-LA"
+    ]
+  },
+  "reason": "Scheduled refresh plus drift alert on SKU-100",
+  "requested_at": "2026-05-25T06:00:00Z"
+}

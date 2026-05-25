@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Build & test
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Logs & runtime
+*.log
+logs/
+tmp/
+.cache/
+
+# Secrets & local config
+secrets/
+*.pem
+credentials.json
+
+# MLflow local tracking (demand-forecast scenario)
+mlruns/
+
+# LangGraph SQLite checkpoints (patterns 09, 10)
+data/checkpoints/

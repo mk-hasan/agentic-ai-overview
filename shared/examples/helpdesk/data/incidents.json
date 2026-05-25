@@ -1,0 +1,26 @@
+[
+  {
+    "id": "LOG-001",
+    "user": "alex.jordan@corp.example.com",
+    "issue": "VPN disconnect every 5 minutes on office Wi-Fi",
+    "timestamp": "2026-05-20T09:12:00Z"
+  },
+  {
+    "id": "LOG-002",
+    "user": "alex.jordan@corp.example.com",
+    "issue": "Outlook sync failed after VPN reconnect",
+    "timestamp": "2026-05-20T09:45:00Z"
+  },
+  {
+    "id": "LOG-003",
+    "user": "alex.jordan@corp.example.com",
+    "issue": "Requested ticket follow-up for recurring VPN drops",
+    "timestamp": "2026-05-21T14:03:00Z"
+  },
+  {
+    "id": "LOG-004",
+    "user": "sam.lee@corp.example.com",
+    "issue": "SSO password reset link expired",
+    "timestamp": "2026-05-21T16:20:00Z"
+  }
+]

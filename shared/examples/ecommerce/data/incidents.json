@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CS-101",
+    "customer": "jordan.lee@example.com",
+    "issue": "Order #48291 tracking stuck on in_transit for 3 days",
+    "timestamp": "2026-05-22T10:15:00Z"
+  },
+  {
+    "id": "CS-102",
+    "customer": "jordan.lee@example.com",
+    "issue": "Requested address change for order #48291 before delivery",
+    "timestamp": "2026-05-23T14:40:00Z"
+  },
+  {
+    "id": "CS-103",
+    "customer": "sam.park@example.com",
+    "issue": "Return RMA question for order #48102",
+    "timestamp": "2026-05-24T09:05:00Z"
+  },
+  {
+    "id": "CS-104",
+    "customer": "jordan.lee@example.com",
+    "issue": "Refund inquiry for delayed express shipment",
+    "timestamp": "2026-05-24T16:30:00Z"
+  }
+]

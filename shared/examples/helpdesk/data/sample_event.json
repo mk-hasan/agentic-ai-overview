@@ -1,0 +1,7 @@
+{
+  "type": "email_received",
+  "from": "alex.jordan@corp.example.com",
+  "subject": "VPN keeps dropping — need help",
+  "body": "Hi IT, my VPN disconnects every few minutes since this morning. I restarted my laptop but it still happens on office Wi-Fi.",
+  "received_at": "2026-05-25T08:30:00Z"
+}

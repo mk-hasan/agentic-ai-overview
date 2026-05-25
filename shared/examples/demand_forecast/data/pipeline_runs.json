@@ -1,0 +1,30 @@
+[
+  {
+    "run_id": "RUN-101",
+    "sku_id": "SKU-100",
+    "store_id": "STORE-NYC",
+    "step": "evaluation",
+    "note": "MAPE 11.2% on 4-week holdout"
+  },
+  {
+    "run_id": "RUN-102",
+    "sku_id": "SKU-200",
+    "store_id": "STORE-LA",
+    "step": "training",
+    "note": "LightGBM beat naive baseline by 18%"
+  },
+  {
+    "run_id": "RUN-103",
+    "sku_id": "SKU-300",
+    "store_id": "STORE-CHI",
+    "step": "monitoring",
+    "note": "Drift score 0.31 after promo week"
+  },
+  {
+    "run_id": "RUN-104",
+    "sku_id": "SKU-400",
+    "store_id": "STORE-NYC",
+    "step": "deployment",
+    "note": "Promoted model v3 to staging"
+  }
+]

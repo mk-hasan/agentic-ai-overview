@@ -1,0 +1,7 @@
+{
+  "type": "email_received",
+  "from": "jordan.lee@example.com",
+  "subject": "Order #48291 — still not delivered",
+  "body": "Hi, my order was supposed to arrive by Friday but tracking still says in transit. Can you check what's going on?",
+  "received_at": "2026-05-25T09:10:00Z"
+}

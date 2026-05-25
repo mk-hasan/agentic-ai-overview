@@ -1,0 +1,27 @@
+{
+  "SKU-100": {
+    "name": "Organic granola 500g",
+    "category": "grocery",
+    "lead_time_days": 3
+  },
+  "SKU-200": {
+    "name": "Sparkling water 12-pack",
+    "category": "beverage",
+    "lead_time_days": 2
+  },
+  "SKU-300": {
+    "name": "Protein bars box",
+    "category": "snacks",
+    "lead_time_days": 4
+  },
+  "SKU-400": {
+    "name": "House blend coffee 1kg",
+    "category": "grocery",
+    "lead_time_days": 5
+  },
+  "SKU-500": {
+    "name": "Frozen berries 1kg",
+    "category": "frozen",
+    "lead_time_days": 3
+  }
+}
