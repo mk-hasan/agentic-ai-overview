@@ -19,6 +19,7 @@
 | [langgraph.md](architecture/langgraph.md) | LangGraph, providers, capabilities |
 | [single-vs-multi-agent.md](architecture/single-vs-multi-agent.md) | Single vs multi-agent |
 | [mcp.md](architecture/mcp.md) | MCP টুল সার্ভার |
+| [Production architecture](../../architecture/production/README.md) | প্রোডাকশন ডিপ্লয় গাইড (ইংরেজি) |
 
 ## প্যাটার্ন ও use cases
 

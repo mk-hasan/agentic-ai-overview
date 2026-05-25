@@ -56,6 +56,8 @@ All runnable examples use **[LangGraph](langgraph.md)**. Shared LLM and env help
 
 Optional **[MCP tool transport](mcp.md)** (`--use-mcp`) exposes the same scenario tools over stdio instead of in-process imports.
 
+**Production:** After running examples, see **[production architecture](production/README.md)** — reference topologies, operability, RAG, observability, and per-scenario deployment guides.
+
 ## Typical Agent Flow (mental model)
 
 ```mermaid

@@ -94,9 +94,12 @@ Phase 4 — Multi-agent & scale
 
 Phase 5 — Production shapes
   09 Human-in-the-Loop  →  10 Memory  →  15 Event-Driven
+
+Phase 6 — Ship to production (docs only)
+  Reference architecture  →  Production concerns  →  Scenario deployment guide
 ```
 
-Phases 2–5 can overlap; order within a phase is flexible.
+Phases 2–5 can overlap; order within a phase is flexible. Phase 6: [production architecture](architecture/production/README.md) — no new code required.
 
 ---
 
@@ -136,4 +139,5 @@ Copy [`templates/pattern-example/`](../templates/pattern-example/) if you want a
 | Have ReAct, need external APIs | [patterns/02-tool-use/](../patterns/02-tool-use/) |
 | Have tools, need internal docs | [patterns/11-rag/](../patterns/11-rag/) |
 | Ready for multiple specialist agents | [patterns/07-orchestrator-workers/](../patterns/07-orchestrator-workers/) |
+| Shipping patterns to production | [docs/architecture/production/](../docs/architecture/production/) |
 | Unsure | [patterns/01-react/](../patterns/01-react/) |

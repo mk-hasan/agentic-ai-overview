@@ -110,7 +110,7 @@ Pattern-specific flags (e.g. `--auto-approve`, `--time-travel` on HITL) are docu
 
 Full index: [patterns/README.md](patterns/README.md) · Glossary: [docs/patterns/glossary.md](docs/patterns/glossary.md)
 
-**Suggested learning order:** 01 ReAct → 02 Tool Use → (11 RAG or 05 Routing) → 09 HITL → 07 Orchestrator–Workers. Details in [Getting started](docs/getting-started.md).
+**Suggested learning order:** 01 ReAct → 02 Tool Use → (11 RAG or 05 Routing) → 09 HITL → 07 Orchestrator–Workers. Details in [Getting started](docs/getting-started.md). To **deploy**, continue with [Production architecture](docs/architecture/production/README.md).
 
 ---
 
@@ -220,6 +220,7 @@ pytest
 | [LangGraph conventions](docs/architecture/langgraph.md) | Graph layout, capabilities, pattern mapping |
 | [Single vs multi-agent](docs/architecture/single-vs-multi-agent.md) | Architecture choice |
 | [MCP integration](docs/architecture/mcp.md) | Optional MCP tool transport |
+| [Production architecture](docs/architecture/production/README.md) | Deploy agents: reference topology, RAG, observability, scenarios |
 | [Run all examples](docs/use-cases/run-all-examples.md) | Copy-paste commands for every pattern |
 
 ---
