@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # 06-parallelization — Demand Forecast ML Pipeline
 
 ```bash

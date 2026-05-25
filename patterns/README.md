@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Pattern Examples
 
 Each numbered folder is one **agentic AI design pattern** with:

@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Map–Reduce
 
 ## What it is

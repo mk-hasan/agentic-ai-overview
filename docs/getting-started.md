@@ -1,3 +1,5 @@
+> **English** | [বাংলা](bn/getting-started.md)
+
 # Getting Started
 
 Recommended order for reading docs and building your **first examples**. You do not need all 15 patterns before shipping anything useful—start small, then layer patterns as your use case demands.

@@ -1,3 +1,5 @@
+> **English** | [বাংলা](use-case.bn.md)
+
 # Use Case: Event-Driven — Corp IT Helpdesk
 
 Shared scenario: [Corp IT Helpdesk](../../docs/use-cases/it-helpdesk.md) — employees email `support@corp.example.com`; the agent reacts asynchronously instead of waiting in chat.

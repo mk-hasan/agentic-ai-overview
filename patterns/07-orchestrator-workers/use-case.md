@@ -1,3 +1,5 @@
+> **English** | [বাংলা](use-case.bn.md)
+
 # Use Case: Orchestrator–Workers — Corp IT Helpdesk
 
 Shared scenario: [Corp IT Helpdesk](../../docs/use-cases/it-helpdesk.md) — complex tickets span VPN, identity, and email systems with distinct expertise.

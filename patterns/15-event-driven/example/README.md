@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Event-Driven Example (LangGraph)
 
 Process an inbound support email event and generate an asynchronous IT helpdesk response.

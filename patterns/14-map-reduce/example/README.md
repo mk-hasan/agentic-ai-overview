@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Map–Reduce Example (LangGraph)
 
 Summarize many helpdesk incident records in parallel, then merge into one executive report.

@@ -1,3 +1,5 @@
+> **English** | [বাংলা](use-case.bn.md)
+
 # Use Case: Human-in-the-Loop — Corp IT Helpdesk
 
 Shared scenario: [Corp IT Helpdesk](../../docs/use-cases/it-helpdesk.md) — creating tickets and other side effects should not run fully unattended.

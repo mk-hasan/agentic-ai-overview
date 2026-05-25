@@ -1,3 +1,5 @@
+> **English** | [বাংলা](use-case.bn.md)
+
 # Use Case: Planning — Corp IT Helpdesk
 
 Shared scenario: [Corp IT Helpdesk](../../docs/use-cases/it-helpdesk.md) — some requests need ordered steps (diagnose → verify → escalate) before the agent acts.

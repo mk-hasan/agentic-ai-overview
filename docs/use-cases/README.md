@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/use-cases/README.md)
+
 # Use Cases
 
 Runnable examples support three scenarios via `--scenario`:

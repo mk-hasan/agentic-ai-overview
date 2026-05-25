@@ -1,3 +1,5 @@
+> **English** | [বাংলা](use-case.bn.md)
+
 # Use Case: ReAct — Corp IT Helpdesk
 
 Shared scenario: [Corp IT Helpdesk](../../docs/use-cases/it-helpdesk.md) — employees report VPN drops, password resets, and Outlook issues via chat.

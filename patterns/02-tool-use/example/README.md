@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Tool Use Example (LangGraph)
 
 IT helpdesk agent with an explicit tool catalog—FAQ search, status checks, and ticket creation via function calling.

@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Tool Use / Function Calling
 
 ## What it is

@@ -1,0 +1,11 @@
+> [English](demand-forecast/README.md) | **বাংলা**
+
+# 01 — চাহিদা পূর্বাভাস (ML)
+
+**চাহিদা পূর্বাভাস (ML)** সিনারিও দিয়ে এই প্যাটার্ন চালান।
+
+```bash
+# রিপো রুট থেকে
+python patterns/01-react/example/demand-forecast/main.py --provider openai
+python patterns/01-react/example/main.py --scenario demand-forecast
+```

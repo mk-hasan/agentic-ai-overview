@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Planning & Task Decomposition
 
 ## What it is

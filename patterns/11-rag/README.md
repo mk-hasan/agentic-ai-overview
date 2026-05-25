@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Retrieval-Augmented Generation (RAG)
 
 ## What it is

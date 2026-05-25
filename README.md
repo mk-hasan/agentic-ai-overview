@@ -1,8 +1,12 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Agentic AI Overview
 
 A hands-on catalog of **15 agentic AI design patterns**, each with **runnable LangGraph examples** and **three shared real-world scenarios**. Use it to learn how agents are built, how patterns compose, and how to adapt reference code to production systems.
 
 **New here?** Start with [Getting started](docs/getting-started.md) → run [ReAct](patterns/01-react/) → read [single-agent vs multi-agent](docs/architecture/single-vs-multi-agent.md).
+
+**বাংলা:** [README.bn.md](README.bn.md) · [বাংলা ডক ইনডেক্স](docs/bn/README.md)
 
 ---
 
@@ -212,6 +216,7 @@ pytest
 | Doc | Purpose |
 |-----|---------|
 | [Getting started](docs/getting-started.md) | Learning path and first steps |
+| [বাংলা documentation](docs/bn/README.md) | Full Bangla translations of project docs |
 | [LangGraph conventions](docs/architecture/langgraph.md) | Graph layout, capabilities, pattern mapping |
 | [Single vs multi-agent](docs/architecture/single-vs-multi-agent.md) | Architecture choice |
 | [MCP integration](docs/architecture/mcp.md) | Optional MCP tool transport |

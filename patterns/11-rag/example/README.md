@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # RAG Example (LangGraph)
 
 Retrieve relevant chunks from markdown KB files, then answer IT helpdesk questions with grounded context and tools.

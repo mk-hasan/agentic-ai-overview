@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/architecture/langgraph.md)
+
 # LangGraph
 
 All runnable examples in this repo use **[LangGraph](https://langchain-ai.github.io/langgraph/)** as the default agent framework.

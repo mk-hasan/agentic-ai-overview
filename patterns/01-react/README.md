@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # ReAct (Reason + Act)
 
 ## What it is

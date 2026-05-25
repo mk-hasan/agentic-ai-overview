@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/use-cases/ecommerce-order-support.md)
+
 # Use Case: E-commerce Order Support
 
 Second shared scenario for all pattern examples. Same LangGraph patterns as IT helpdesk, different domain.

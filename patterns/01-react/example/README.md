@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # ReAct Example (LangGraph)
 
 Minimal **ReAct** loop using LangGraph: an IT helpdesk agent searches a FAQ, then opens a ticket if needed.

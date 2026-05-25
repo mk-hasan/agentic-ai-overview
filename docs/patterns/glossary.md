@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/patterns/glossary.md)
+
 # Glossary
 
 | Term | Meaning |

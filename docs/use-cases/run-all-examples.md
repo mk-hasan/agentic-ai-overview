@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/use-cases/run-all-examples.md)
+
 # Run all examples
 
 Two scenarios: **helpdesk** (default), **ecommerce**, and **demand-forecast** (ML pipeline / MLDLC). See [use cases README](README.md).

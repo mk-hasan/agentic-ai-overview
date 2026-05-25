@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Parallelization
 
 ## What it is

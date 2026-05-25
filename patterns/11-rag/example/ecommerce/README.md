@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # 11-rag — E-commerce Order Support
 
 Run this pattern with the **ecommerce** use case.

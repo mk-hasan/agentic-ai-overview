@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # 02-tool-use — IT Helpdesk
 
 Run this pattern with the **helpdesk** use case.

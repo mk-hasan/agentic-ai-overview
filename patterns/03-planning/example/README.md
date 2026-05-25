@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Planning Example (LangGraph)
 
 IT helpdesk agent that decomposes a user request into a step plan, then executes each step with tools before synthesizing a final reply.

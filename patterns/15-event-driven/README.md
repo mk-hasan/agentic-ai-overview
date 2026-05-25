@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Event-Driven Agents
 
 ## What it is

@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Parallelization Example (LangGraph)
 
 Concurrent FAQ search and service-status checks merged into one IT helpdesk reply.

@@ -1,0 +1,11 @@
+> [English](ecommerce/README.md) | **বাংলা**
+
+# 02 — ই-কমার্স
+
+**ই-কমার্স** সিনারিও দিয়ে এই প্যাটার্ন চালান।
+
+```bash
+# রিপো রুট থেকে
+python patterns/02-tool-use/example/ecommerce/main.py --provider openai
+python patterns/02-tool-use/example/main.py --scenario ecommerce
+```

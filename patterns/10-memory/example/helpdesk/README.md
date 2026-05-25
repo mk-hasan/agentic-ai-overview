@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # 10-memory — IT Helpdesk
 
 Run this pattern with the **helpdesk** use case.

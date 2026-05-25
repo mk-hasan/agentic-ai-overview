@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Orchestrator–Workers Example (LangGraph)
 
 Supervisor agent delegates VPN, identity, and email work to specialist worker agents, then synthesizes one answer.

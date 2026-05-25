@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/architecture/single-vs-multi-agent.md)
+
 # Single-Agent vs Multi-Agent
 
 Agentic systems are often described by **how many autonomous agents** coordinate to reach a goal. Most patterns in this repo apply to one or both models.

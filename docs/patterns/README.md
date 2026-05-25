@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/patterns/README.md)
+
 # Agentic AI Design Patterns
 
 A catalog of common patterns for building autonomous and semi-autonomous AI agents. Each pattern has a dedicated folder under [`patterns/`](../../patterns/) with space for a real-life use case and a runnable example.

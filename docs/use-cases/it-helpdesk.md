@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/use-cases/it-helpdesk.md)
+
 # Use Case: Corp IT Helpdesk
 
 Default scenario (`--scenario helpdesk`) for all pattern examples. See also [E-commerce Order Support](ecommerce-order-support.md).

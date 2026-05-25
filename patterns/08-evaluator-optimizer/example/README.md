@@ -1,3 +1,5 @@
+> **English** | [বাংলা](README.bn.md)
+
 # Evaluator–Optimizer Example (LangGraph)
 
 Draft helpdesk reply, score it against quality criteria, and revise until the score passes a threshold.

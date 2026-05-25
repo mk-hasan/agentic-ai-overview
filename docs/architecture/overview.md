@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/architecture/overview.md)
+
 # Project Architecture
 
 ## Layout

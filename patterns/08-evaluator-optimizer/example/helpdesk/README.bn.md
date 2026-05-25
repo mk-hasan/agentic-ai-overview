@@ -1,0 +1,11 @@
+> [English](helpdesk/README.md) | **বাংলা**
+
+# 08 — IT হেল্পডেস্ক
+
+**IT হেল্পডেস্ক** সিনারিও দিয়ে এই প্যাটার্ন চালান।
+
+```bash
+# রিপো রুট থেকে
+python patterns/08-evaluator-optimizer/example/helpdesk/main.py --provider openai
+python patterns/08-evaluator-optimizer/example/main.py --scenario helpdesk
+```

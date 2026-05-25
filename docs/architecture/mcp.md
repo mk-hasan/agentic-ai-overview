@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/architecture/mcp.md)
+
 # MCP tool server (optional)
 
 Examples load tools **in-process** by default. With **`--use-mcp`**, the same scenario tools are served over **stdio MCP** and loaded via [langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters).

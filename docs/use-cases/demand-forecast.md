@@ -1,3 +1,5 @@
+> **English** | [বাংলা](../bn/use-cases/demand-forecast.md)
+
 # Demand Forecast ML Pipeline
 
 Agentic orchestration of the **Machine Learning Development Life Cycle (MLDLC)** for retail SKU-store demand forecasting. Synthetic data and **MLflow tracking** (optional) back train → evaluate → register → infer.
